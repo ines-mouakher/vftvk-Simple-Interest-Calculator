@@ -1,4 +1,20 @@
-body {background-color:tan;}
-h1{color:green;}
+body {background-color:black;font-family:arial;color:white}
+h1{color:grey;font-family:verdana}
+label{width: 110px;
+display: inline-block;}
+.maindiv {background-color:white;
+color:black;
+width: 480px;
+padding: 20px;
+border-radius: 25px;
+ margin: 0 auto; 
+}
+.child {
+    background-color:white;
+color:black;
+width: 310px;
+padding: 20px;
+  margin: 0 auto;
+}
 
 
